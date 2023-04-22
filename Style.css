@@ -1,0 +1,74 @@
+.navbar-inverse
+{
+    position: sticky;
+    top:0;
+    z-index:99999;
+}
+
+#title
+{
+    font-size:50px;
+    text-align:center;
+    color:bisque;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.menu
+{
+
+list-style: none;
+
+}
+
+.profile
+{
+    width:100%;
+}
+
+.navbar-nav
+{
+    font-size:20px;
+}
+
+.movie_head
+{
+  font-size:20px;
+  padding:6px 22px;
+  border-radius:10px;
+  margin-bottom:15px;   
+}
+
+.movie_head i
+{
+    float:right;
+}
+
+.accomplishment_text span
+{
+    color:darksalmon;
+}
+
+.travel_mainDiv
+{
+    border:1px solid lightcoral;
+}
+
+.travel_mainDiv img
+{
+    width:100%;
+}
+
+.travel_mainDiv h5, .travel_mainDiv p
+{
+    margin:20px
+}
+
+.new
+{
+    margin: bottom 20px;
+}
+
+#contact iframe
+{
+    width:100%;
+}
